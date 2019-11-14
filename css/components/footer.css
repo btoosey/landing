@@ -1,0 +1,32 @@
+footer {
+  background-color: #2C2A2A;
+  color: #6A6C6C;
+  margin: 0;
+  text-align: center;
+  height: 200px;
+  align-items: center;
+}
+
+footer a {
+  color: #1DDD88;
+  font-size: 40px;
+}
+
+footer p {
+  padding: 0;
+  padding-bottom: 24px;
+  margin: 0;
+}
+
+.list-inline {
+text-align: center;
+padding-top: 48px;
+letter-spacing: 4px;
+margin: 0;
+}
+
+.list-inline li {
+  display: inline;
+  list-style: none;
+}
+
